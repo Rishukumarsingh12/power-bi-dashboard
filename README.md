@@ -12,5 +12,7 @@ The dashboard includes visualizations such as bar charts, line graphs, and pie c
 ## Screenshots of the Dashboard
 ![ss1](https://github.com/user-attachments/assets/eabaf1aa-d779-4655-a8f3-07898c38befb)
 
+
 ![ss2](https://github.com/user-attachments/assets/a0344be9-2025-414a-a22e-6e037fcd5171)
 
+So, we can see that for different year , the dashboard is showing different statistics and records for sales , profit,losses.
