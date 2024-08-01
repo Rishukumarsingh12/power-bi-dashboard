@@ -7,7 +7,7 @@ The dashboard includes visualizations such as bar charts, line graphs, and pie c
 
 ## Files
 -`1st_bi_project.pbix`: The Power BI dashboard file.
--`Data/`: The dataset(s) used for the dashboard.
+-`global_superstore_2016 (1).xlsx`: The dataset(s) used for this dashboard.
 
 ## Screenshots of the Dashboard
 ![ss1](https://github.com/user-attachments/assets/eabaf1aa-d779-4655-a8f3-07898c38befb)
